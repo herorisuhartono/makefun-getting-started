@@ -95,4 +95,4 @@ Rewards are claimed in USDC on Solana to the wallet specified in the claim flow.
 
 ### Is the screenshot in this repository from GitHub?
 
-No. The repository screenshot is a local-render placeholder and is intended to be replaced with a real GitHub page screenshot after publishing.
+Yes — the screenshot is a capture of this repository's GitHub page.
